@@ -1,0 +1,33 @@
+[
+    { "keys": ["alt+h"], "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["alt+j"], "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["alt+k"], "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["alt+l"], "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["super+alt+t"], "command": "insert_timestamp" },
+    { "keys": ["super+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["super+shift+down"], "command": "select_lines", "args": {"forward": true} }
+]
