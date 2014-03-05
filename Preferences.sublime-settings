@@ -11,5 +11,6 @@
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": false
+	"ensure_newline_at_eof_on_save": false,
+	"word_wrap": true
 }
