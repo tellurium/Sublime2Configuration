@@ -1,6 +1,7 @@
 {
 	"auto_complete": false,
 	"color_scheme": "Packages/User/Color Scheme - User/Monokai-User.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 14,
 	"ignored_packages":
 	[
@@ -9,8 +10,7 @@
 	],
 	"open_files_in_new_window": false,
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true,
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
+	"vintage_start_in_command_mode": true,
 	"word_wrap": true
 }
