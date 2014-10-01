@@ -1,7 +1,7 @@
 {
 	"auto_complete": false,
 	"color_scheme": "Packages/User/Color Scheme - User/Monokai-User.tmTheme",
-	"ensure_newline_at_eof_on_save": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 14,
 	"ignored_packages":
 	[
